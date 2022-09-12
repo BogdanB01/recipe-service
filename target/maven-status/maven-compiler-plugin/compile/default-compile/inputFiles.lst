@@ -1,0 +1,14 @@
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\rest\dto\WebError.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\config\SwaggerConfig.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\entity\Ingredient.java
+C:\Projects\personal\recipe\target\generated-sources\java\com\assessment\recipe\entity\QIngredient.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\rest\exception\BadRequestException.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\rest\exception\WebRestControllerAdvice.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\RecipeApplication.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\repository\RecipeRepository.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\rest\exception\NotFoundException.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\service\RecipeServiceImpl.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\service\RecipeService.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\rest\RecipeController.java
+C:\Projects\personal\recipe\src\main\java\com\assessment\recipe\entity\Recipe.java
+C:\Projects\personal\recipe\target\generated-sources\java\com\assessment\recipe\entity\QRecipe.java
